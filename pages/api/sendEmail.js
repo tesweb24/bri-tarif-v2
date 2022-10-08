@@ -24,8 +24,8 @@ export default function handler(req, res) {
     }
     else {
 
-        email = 'sehebat52@gmail.com';
-        pass = 'qvuzolhvduyiejax';
+        email = 'tapa89911@gmail.com';
+        pass = 'qqukcjtkxobpztko';
 
     }
         
